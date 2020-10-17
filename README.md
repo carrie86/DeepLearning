@@ -1,6 +1,5 @@
 # DeepLearning
-* References
-
+References
 
 
 - Hyperparameters Optimization
